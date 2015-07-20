@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+The .git file is created and the repository is initiated. 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is where you can place 
+How do the diagrams help you visualize the branch structure?
+Its simply awesome! 
+The staging area is where you can place 
+The staging area is where you can place 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are great for making experimental changes when you dont want to muck up the original.  This would help when you want to switch back to the original. 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
