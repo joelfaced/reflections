@@ -9,3 +9,5 @@ The staging area is where you can place
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches are great for making experimental changes when you dont want to muck up the original.  This would help when you want to switch back to the original. 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git will compare the versions to find conflicts and will show you where the conflicts are and you can still see your commits. 
